@@ -83,6 +83,8 @@ While the application is functional, there are several areas that could be enhan
 
 **Improved Front-end:** The current interface, built with Gradio, is simple and functional. In the future, a custom front-end (e.g., using HTML, CSS, and JavaScript) could offer a more polished design and a richer user experience.
 
+**Improvement of settings**
+
 <p align="center">
 Note: This application was created as part of an Ironhack bootcamp, with the assistance of AI tools.
 </p>
